@@ -1,0 +1,11 @@
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.DAL.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.DAL.pdb
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.Repository.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentDB.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.Repository.pdb
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentDB.pdb
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.pdb

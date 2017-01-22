@@ -1,0 +1,9 @@
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\StudentAutomation.Repository.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\StudentAutomation.Repository.pdb
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\StudentDB.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\StudentDB.pdb
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.dll
+C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.pdb
