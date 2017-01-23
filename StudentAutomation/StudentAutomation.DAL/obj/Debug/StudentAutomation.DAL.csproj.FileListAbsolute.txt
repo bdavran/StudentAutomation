@@ -9,3 +9,12 @@ C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\bin
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.csprojResolveAssemblyReference.cache
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.dll
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.DAL.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentAutomation.DAL.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentDB.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\EntityFramework.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\StudentDB.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\bin\Debug\EntityFramework.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.DAL\obj\Debug\StudentAutomation.DAL.pdb

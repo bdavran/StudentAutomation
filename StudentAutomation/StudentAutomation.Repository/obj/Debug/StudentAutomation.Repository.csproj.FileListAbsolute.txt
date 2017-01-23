@@ -7,3 +7,6 @@ C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Reposit
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.csprojResolveAssemblyReference.cache
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.dll
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.Repository\obj\Debug\StudentAutomation.Repository.pdb

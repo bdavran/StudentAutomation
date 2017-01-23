@@ -10,34 +10,15 @@ namespace StudentAutomation.Repository
 {
     public class StudentAutomationRepository
     {
-        private DBConnection dbConnection;
-        private SqlCommand sqlCommand;
+        public StudentDBContext StudentDBContext { get; set; }
+
         public StudentAutomationRepository()
         {
-            
+            StudentDBContext = new StudentDBContext();
         }
 
         public List<Student> GetAllStudents()
         {
-            sqlCommand = dbConnection.GetSqlCommand();
-            sqlCommand.CommandText = "SELECT * FROM Students";
-
-
-            var students = new List<Student>();
-            var sqlDataReader = sqlCommand.ExecuteReader();
-
-            while (sqlDataReader.Read())
-            {
-                var student = new Student()
-                {
-                    StudentName = sqlDataReader["StudentName"].ToString(),
-                    StudentLastname = sqlDataReader["StudentLastName"].ToString(),
-                    Age = Convert.ToInt32(sqlDataReader["Age"]),
-                    Gender = sqlDataReader["Gender"].ToString(),
-                };
-
-                students.Add(student);
-            }
             return students;
         }
         public List<Course> GetAllCourses()

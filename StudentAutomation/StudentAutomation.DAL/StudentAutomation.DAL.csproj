@@ -41,13 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StudentAutomationDAL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StudentAutomation.Repository\StudentAutomation.Repository.csproj">
-      <Project>{1bfda52e-a038-4400-9db9-2a5e7fae9c5f}</Project>
-      <Name>StudentAutomation.Repository</Name>
-    </ProjectReference>
     <ProjectReference Include="..\StudentDB\StudentDB.csproj">
       <Project>{15ed50d3-f434-42b0-bcfc-f80e91911d82}</Project>
       <Name>StudentDB</Name>

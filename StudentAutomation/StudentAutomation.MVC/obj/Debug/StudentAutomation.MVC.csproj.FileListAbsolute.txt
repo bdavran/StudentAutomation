@@ -41,3 +41,38 @@ C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.MVC\bin
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.Repository.pdb
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.MVC\bin\EntityFramework.xml
 C:\Users\Baros\Desktop\MVC denemeler\StudentAutomation\StudentAutomation.MVC\obj\Debug\StudentAutomation.MVC.csprojResolveAssemblyReference.cache
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\csc.exe
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\vbc.exe
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.MVC.dll.config
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.MVC.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.MVC.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.BLL.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Helpers.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Mvc.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Razor.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\StudentAutomation.BLL.pdb
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Razor.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Helpers.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\bin\System.Web.Mvc.xml
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\obj\Debug\StudentAutomation.MVC.csprojResolveAssemblyReference.cache
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\obj\Debug\StudentAutomation.MVC.dll
+C:\Users\PackerdBell\Documents\GitHub\StudentAutomation\StudentAutomation\StudentAutomation.MVC\obj\Debug\StudentAutomation.MVC.pdb

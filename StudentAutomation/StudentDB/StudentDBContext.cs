@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.Configuration;
 
 namespace StudentDB
 {
-    class StudentDBContext:DbContext
+    public class StudentDBContext : DbContext
     {
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -15,11 +16,16 @@ namespace StudentDB
         }
 
         public StudentDBContext()
+            : base(ConfigurationManager.ConnectionStrings["StudentApp.ConnectionString"].ConnectionString)
         {
-            Database.Connection.ConnectionString = "Server=.;Database=StudentAutomation;Trusted_Connection=True;";
+
         }
+
         public DbSet<Student> Students { get; set; }
+
         public DbSet<Course> Courses { get; set; }
+
+        public DbSet<CoursesInStudent> CoursesInStudents { get; set; }
     }
 }
 
